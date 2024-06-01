@@ -1,0 +1,27 @@
+{
+  "name": "playwright-1.44_dotenv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truthanb/playwright-1.44_dotenv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truthanb/playwright-1.44_dotenv/issues"
+  },
+  "homepage": "https://github.com/truthanb/playwright-1.44_dotenv#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.13.0",
+    "playwright": "^1.44.1"
+  }
+}
